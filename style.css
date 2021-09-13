@@ -1,0 +1,43 @@
+.container{
+    margin-bottom: 5%;
+}
+.pink-bg{
+    background-color: palevioletred;
+    border-radius: 10px;
+}
+.beshi-hight{
+   height:450px;
+}
+.carousel h1{
+    color: rgb(255, 255, 0);
+}
+.buy{
+    background-image: linear-gradient(rgb(255, 230, 0), rgb(236, 117, 117));
+}
+
+.items img{
+    width: 100px;
+    
+}
+.it1{
+    background-color: yellow;
+}
+.it2{
+    background-color: tomato;
+}
+.it3{
+    background-color: blue;
+}
+
+.it1,.it2,.it3{
+    padding: 10px 30px;
+    border-radius: 10px;
+    height: 100px;
+}
+
+.contact{
+    height: 400px;
+}
+footer{
+    text-align: center;
+}
